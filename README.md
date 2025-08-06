@@ -1,9 +1,11 @@
 
 # 👋 Olá, eu sou o Marlon Lecicio!
 
-Sou Técnico em Suporte de Informática com mais de 6 anos de experiência em manutenção de computadores, redes, sistemas operacionais e suporte técnico para empresas e residências.
+Sou Técnico em Suporte de Informática, atuando também como programador júnior. Tenho mais de 7 anos de experiência em manutenção de computadores, redes, sistemas operacionais e suporte técnico para empresas e residências. Tenho atualmente 3 anos atuando como programador em projetos independente e outros projetos pessoais.
 
-💼 **Atualmente atuo na RioMinas**, prestando suporte completo e personalizado, com foco em eficiência, agilidade e segurança. Já atendi mais de 80 clientes ao longo da minha trajetória.
+💼 **Atualmente atuo na RioMinas**, prestando suporte completo e personalizado, com foco em eficiência, agilidade e segurança para as rodovias federais, atuando como atendente civil da PRF. 
+
+Já atendi mais de 100 clientes ao longo da minha trajetória, como técnico.
 
 ## 🚀 Tecnologias e Ferramentas que domino:
 
