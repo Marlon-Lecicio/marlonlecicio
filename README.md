@@ -42,7 +42,7 @@ Atualmente busco ampliar minha base de clientes e conquistar novas oportunidades
 
 ## 📫 Como me encontrar:
 - 💼 [LinkedIn](https://www.linkedin.com/in/marlon-lecicio-lopes-6b854b175)
-- ✉️ marlonlecicio@gmail.com
+- ✉️ marlonleciciolopes@gmail.com
 - 📍 Brasil
 
 ### ✨ “Transformo problemas técnicos em soluções práticas desde 2018.”
